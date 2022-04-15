@@ -9,7 +9,7 @@ public class OrderRepositoryV0 {
 
     public void save(String itemId) {
         if (itemId.equals("ex")) {
-            throw new IllegalStateException("에외 발새!");
+            throw new IllegalStateException("예외 발새!");
         }
         sleep(1000);
     }
