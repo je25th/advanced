@@ -1,8 +1,8 @@
-package hello.advanced.trace.template;
+package hello.advanced.trace.templatee;
 
-import hello.advanced.trace.template.code.AbstractTemplate;
-import hello.advanced.trace.template.code.SubClassLoginc1;
-import hello.advanced.trace.template.code.SubClassLoginc2;
+import hello.advanced.trace.templatee.code.AbstractTemplate;
+import hello.advanced.trace.templatee.code.SubClassLoginc1;
+import hello.advanced.trace.templatee.code.SubClassLoginc2;
 import lombok.extern.slf4j.Slf4j;
 import org.junit.jupiter.api.Test;
 

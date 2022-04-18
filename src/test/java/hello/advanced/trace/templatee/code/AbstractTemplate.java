@@ -1,4 +1,4 @@
-package hello.advanced.trace.template.code;
+package hello.advanced.trace.templatee.code;
 
 import lombok.extern.slf4j.Slf4j;
 
